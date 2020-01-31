@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
 	<filename>im115.jpg</filename>
-	<path>/home/younes/vision/train/im115.jpg</path>
+	<path>/home/younes/detect/data/images/train/im115.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>533</height>
+		<width>785</width>
+		<height>523</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>bmp1</name>
+		<name>bmp</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>204</xmin>
-			<ymin>218</ymin>
-			<xmax>656</xmax>
-			<ymax>373</ymax>
+			<xmin>200</xmin>
+			<ymin>220</ymin>
+			<xmax>635</xmax>
+			<ymax>357</ymax>
 		</bndbox>
 	</object>
 </annotation>

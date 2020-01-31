@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>im200.jpg</filename>
-	<path>/home/younes/vision/train/im200.jpg</path>
+	<path>/home/younes/detect/data/images/train/im200.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>bmp1</name>
+		<name>bmp</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4</xmin>
-			<ymin>196</ymin>
-			<xmax>506</xmax>
-			<ymax>410</ymax>
+			<xmin>8</xmin>
+			<ymin>166</ymin>
+			<xmax>493</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 </annotation>

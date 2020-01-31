@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
 	<filename>im159.jpg</filename>
-	<path>/home/younes/vision/train/im159.jpg</path>
+	<path>/home/younes/detect/data/images/train/im159.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>533</height>
+		<width>785</width>
+		<height>523</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>btr80</name>
+		<name>btr</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>45</xmin>
-			<ymin>136</ymin>
-			<xmax>708</xmax>
-			<ymax>423</ymax>
+			<xmin>56</xmin>
+			<ymin>117</ymin>
+			<xmax>671</xmax>
+			<ymax>370</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
 	<filename>im277.jpg</filename>
-	<path>/home/younes/vision/train/im277.jpg</path>
+	<path>/home/younes/detect/data/images/train/im277.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>533</height>
+		<width>785</width>
+		<height>523</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>117</xmin>
-			<ymin>217</ymin>
-			<xmax>691</xmax>
-			<ymax>406</ymax>
+			<xmin>119</xmin>
+			<ymin>245</ymin>
+			<xmax>671</xmax>
+			<ymax>376</ymax>
 		</bndbox>
 	</object>
 </annotation>

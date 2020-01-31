@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
 	<filename>im330.jpg</filename>
-	<path>/home/younes/vision/train/im330.jpg</path>
+	<path>/home/younes/detect/data/images/train/im330.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>535</height>
+		<width>782</width>
+		<height>523</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>191</ymin>
-			<xmax>749</xmax>
-			<ymax>398</ymax>
+			<xmin>30</xmin>
+			<ymin>196</ymin>
+			<xmax>738</xmax>
+			<ymax>392</ymax>
 		</bndbox>
 	</object>
 </annotation>
